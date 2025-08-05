@@ -54,3 +54,8 @@ mysql-practice/
 ---
 
 ## ✍️ Sample SQL Sn
+
+## 👨‍💻 Author
+
+**Satyam9196**  
+GitHub: [@satyam9196](https://github.com/satyam9196)
